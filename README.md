@@ -1,2 +1,6 @@
 # Is_everything_alright
-Is everything alright - small site monitoring service
+Is everything alright - small site monitoring service 
+
+Main purpose of service  - real time monitoring important pages of site for avalibility.
+
+
